@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://royl.micro.blog/2024/08/12/be-cicd-agnostic.html",
+				
+				"content_html": "<p>Be CI/CD agnostic. Develop your build system to operate outside of any specific CI system and you can then easily use <em>any</em> CI system that your clients may be using 🧑‍💻</p>\n",
+				"content_text": "Be CI/CD agnostic. Develop your build system to operate outside of any specific CI system and you can then easily use _any_ CI system that your clients may be using 🧑‍💻\n",
+				"date_published": "2024-08-12T13:42:23-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/12/be-cicd-agnostic.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/10/if-it-werent.html",
+				
+				"content_html": "<p>If it weren&rsquo;t for breakdancing and skateboarding I wouldn&rsquo;t be watching the olympics this year 🤷 so I dunno, it totally worked to bring in some new viewers. the soundtrack has been incredibly good too</p>\n",
+				"content_text": "If it weren't for breakdancing and skateboarding I wouldn't be watching the olympics this year 🤷 so I dunno, it totally worked to bring in some new viewers. the soundtrack has been incredibly good too\n",
+				"date_published": "2024-08-10T12:13:21-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/10/if-it-werent.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/09/i-quit-smoking.html",
+				
+				"content_html": "<p>I quit smoking 12 years ago. When anyone asks how I did it, I usually respond that I used a cessation device, a shitty little cigarette sized vape, for like 3 months. But I forget to mention that I had a second cessation device - a huge bag of DumDum lollipops. Those were the real MVP in my opinion.</p>\n<p>Anyways I ordered another bag today because I am going to try the same techniques to stop looping on goddamn reddit, youtube, and other attention stealing soul sucking time sinks</p>\n",
+				"content_text": "I quit smoking 12 years ago. When anyone asks how I did it, I usually respond that I used a cessation device, a shitty little cigarette sized vape, for like 3 months. But I forget to mention that I had a second cessation device - a huge bag of DumDum lollipops. Those were the real MVP in my opinion. \n\nAnyways I ordered another bag today because I am going to try the same techniques to stop looping on goddamn reddit, youtube, and other attention stealing soul sucking time sinks\n",
+				"date_published": "2024-08-09T10:16:06-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/09/i-quit-smoking.html",
+				"tags": ["mental health"]
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/08/the-more-i.html",
+				
+				"content_html": "<p>The more i use TailwindCSS the more I love it. Such a good tool</p>\n",
+				"content_text": "The more i use TailwindCSS the more I love it. Such a good tool \n",
+				"date_published": "2024-08-08T13:15:42-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/08/the-more-i.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/08/if-theres-a.html",
+				
+				"content_html": "<blockquote>\n<p>If there’s a task that’s been on my todo list for a while and I can’t bring myself to do it… maybe I just shouldn’t?</p>\n</blockquote>\n<p>yes this 100%</p>\n<p>more: <a href=\"https://adhdftw.com/youre-not-lazy.-youre-just-bored./\">https://adhdftw.com/youre-not-lazy.-youre-just-bored./</a></p>\n",
+				"content_text": "> If there’s a task that’s been on my todo list for a while and I can’t bring myself to do it… maybe I just shouldn’t?\r\n\r\nyes this 100%\r\n\r\nmore: [https://adhdftw.com/youre-not-lazy.-youre-just-bored./](https://adhdftw.com/youre-not-lazy.-youre-just-bored./)\n",
+				"date_published": "2024-08-08T10:31:57-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/08/if-theres-a.html"
+			},
+			{
 				"id": "http://royl.micro.blog/2024/08/07/paqui-chips.html",
 				"title": "Paqui Chips",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Every time my wife and I go grocery shopping, I keep an eye out for my favorite snack chip. I am pretty moderate about it and only grab a bag once in a while, but for the last few months, they just have not been available. Good for the waist but sad for the soul. Seriously, Paqui chips were the best chip on the market in my opinion. Properly hot, super good texture—just leagues better than other similar chips. They were such a treat.</p>\n<p>Unfortunately, it seems that they are no more. I haven&rsquo;t been able to find them anywhere. It appears the brand has been discontinued.</p>\n<p>Someone on Reddit contacted the company and Paqui responded:</p>\n<blockquote>\n<p>We hate to be the bearer of bad news, but unfortunately, PAQUI Chips is no longer manufactured for sale. However, the decision to discontinue the brand is not made lightly because we know how disappointing it can be to look for your favorite snack and not find it.</p>\n</blockquote>\n<p>So yeah, discontinued. Bummer.</p>\n<p>But that&rsquo;s not the entire story. This company also created a product called the One Chip Challenge. A single chip made from the hottest peppers in the world, sold as a gimmick where you &ldquo;take the challenge&rdquo; and post/share your experience on social media. Good marketing, but it got too popular and too accessible imo. A 14yr old kid with a heart condition bought the product, ate it, and died from complications. Paqui discontinued that product quickly and kept shipping their other non-insane products, but it seems the fallout of the One Chip Challenge was too much and the entire brand is gone.</p>\n<p>I wanted to make a post about a snack I liked that is no longer available but it&rsquo;s weird to hold both sadness about the loss of a snack in one hand and to know that a child died because of a marketing gimmick from the same snack company. This mix of conflicting emotions—fondness and grief, nostalgia and sorrow—is hard to reconcile. It’s a bittersweet realization, knowing something that once brought joy is now tainted by tragedy. The enjoyment and sadness over a favorite snack being discontinued contrasting sharply with the tragic reason behind its discontinuation. Life is absurd and humans are messy.</p>\n<p>References:</p>\n<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/One_Chip_Challenge\">https://en.wikipedia.org/wiki/One_Chip_Challenge</a></li>\n<li><a href=\"https://spicyfoodreviews.com/2024/07/paqui-chips-have-been-quietly-discontinued-here-are-three-possible-replacements\">spicyfoodreviews.com/2024/07/p&hellip;</a></li>\n<li><a href=\"https://apnews.com/article/paqui-spicy-chip-challenge-death-autopsy-f81c220c549ec497bcc626dec4fc2be4\">apnews.com/article/p&hellip;</a></li>\n</ul>\n",
