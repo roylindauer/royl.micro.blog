@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://royl.micro.blog/2024/08/28/my-executive-function.html",
+				
+				"content_html": "<p>My executive function is shot today 🤪 🚨</p>\n",
+				"content_text": "My executive function is shot today 🤪 🚨\n",
+				"date_published": "2024-08-28T17:47:43-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/28/my-executive-function.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/20/til-that-you.html",
+				
+				"content_html": "<p>TIL that you can configure apple notes to just be a body with no title. Its a small thing, but it is really nice for my second brain. less to think about just type note and be done with it</p>\n",
+				"content_text": "TIL that you can configure apple notes to just be a body with no title. Its a small thing, but it is really nice for my second brain. less to think about just type note and be done with it \n",
+				"date_published": "2024-08-20T19:57:22-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/20/til-that-you.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/20/dont-make-things.html",
+				
+				"content_html": "<p>Dont make things harder than they need to be. Make a choice. You can always make changes later. Like, get the first draft out thats the hard part.</p>\n<p>Anyways i just went with Google workspace because i didnt want to think about email that much. It works 😂 and if it doesnt ill change it later</p>\n",
+				"content_text": "Dont make things harder than they need to be. Make a choice. You can always make changes later. Like, get the first draft out thats the hard part. \n\nAnyways i just went with Google workspace because i didnt want to think about email that much. It works 😂 and if it doesnt ill change it later \n",
+				"date_published": "2024-08-20T19:54:59-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/20/dont-make-things.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/20/trying-to-setup.html",
+				
+				"content_html": "<p>Trying to setup a google workspace account this morning, and it keeps funneling me into a plan I do not want with no option to change it during sign up. Allegedly the steps are to just accept the much higher plan and then downgrade, but like, why this user hostile approach? I specifically chose to start with a smaller plan and it still herds me into a much higher priced  plan. So yeah looking for an alternative.</p>\n",
+				"content_text": "Trying to setup a google workspace account this morning, and it keeps funneling me into a plan I do not want with no option to change it during sign up. Allegedly the steps are to just accept the much higher plan and then downgrade, but like, why this user hostile approach? I specifically chose to start with a smaller plan and it still herds me into a much higher priced  plan. So yeah looking for an alternative. \n",
+				"date_published": "2024-08-20T08:28:43-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/20/trying-to-setup.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/08/19/how-can-we.html",
+				
+				"content_html": "<p>how can we stop nagging users to subscribe to a newsletter when they have already subscribed? I don&rsquo;t want to annoy folk. I think we can design better experiences here</p>\n",
+				"content_text": "how can we stop nagging users to subscribe to a newsletter when they have already subscribed? I don't want to annoy folk. I think we can design better experiences here \n",
+				"date_published": "2024-08-19T11:16:26-07:00",
+				"url": "https://blog.roylindauer.com/2024/08/19/how-can-we.html"
+			},
+			{
 				"id": "http://royl.micro.blog/2024/08/17/today-i-learned.html",
 				
 				"content_html": "<p>Today I learned that Affinity Designer has a QR Code drawing tool. What a time saver!</p>\n",
