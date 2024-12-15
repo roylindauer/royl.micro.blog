@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://royl.micro.blog/2024/12/15/been-developing-with.html",
+				
+				"content_html": "<p>Been developing with cursor ai editor a lot in the last couple of weeks and have thoughts - the tool is amazing, they&rsquo;ve done an excellent job. cursor is good. ai is, fine? the ai pit of death is all too real. the plateau of death also very real. ai seems best suited to me for rubber ducking</p>\n",
+				"content_text": "Been developing with cursor ai editor a lot in the last couple of weeks and have thoughts - the tool is amazing, they've done an excellent job. cursor is good. ai is, fine? the ai pit of death is all too real. the plateau of death also very real. ai seems best suited to me for rubber ducking \n",
+				"date_published": "2024-12-15T08:58:20-08:00",
+				"url": "https://blog.roylindauer.com/2024/12/15/been-developing-with.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/11/12/choose-one-camera.html",
+				
+				"content_html": "<p>Choose one camera.</p>\n<p>Choose one lens.</p>\n<p>Choose one software.</p>\n<p>Choose one subject.</p>\n<p>Explore within the boundaries of limitation</p>\n",
+				"content_text": "Choose one camera. \r\n\r\nChoose one lens. \r\n\r\nChoose one software. \r\n\r\nChoose one subject. \r\n\r\nExplore within the boundaries of limitation\r\n\r\n",
+				"date_published": "2024-11-12T11:50:44-08:00",
+				"url": "https://blog.roylindauer.com/2024/11/12/choose-one-camera.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/11/12/its-a-trance.html",
+				
+				"content_html": "<p>It&rsquo;s a trance pants kinda day</p>\n<p>Discovering mix tapes, dj mixes, promos, is difficult for some reason, so I am reaching way back in the bag for some oldies and classics</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's a trance pants kinda day \r\n\r\nDiscovering mix tapes, dj mixes, promos, is difficult for some reason, so I am reaching way back in the bag for some oldies and classics \r\n\r\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/WIf1jSuE238?si=6Cc_9ShhAXYQtAWD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2024-11-12T11:48:02-08:00",
+				"url": "https://blog.roylindauer.com/2024/11/12/its-a-trance.html"
+			},
+			{
+				"id": "http://royl.micro.blog/2024/10/23/i-dont-normally.html",
+				
+				"content_html": "<p>I don&rsquo;t normally use this word, but this track is <em>fire</em>. On rotation since it was released. JID <em>might</em> have the best verse, which is rare on Eminem features. Regardless, both killed it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I don't normally use this word, but this track is _fire_. On rotation since it was released. JID _might_ have the best verse, which is rare on Eminem features. Regardless, both killed it. \n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5In8B6Om5OKrhwBMB4tXSi?utm_source=generator&theme=0\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
+				"date_published": "2024-11-12T11:46:30-08:00",
+				"url": "https://blog.roylindauer.com/2024/10/23/i-dont-normally.html"
+			},
+			{
 				"id": "http://royl.micro.blog/2024/10/18/darktable-is-a.html",
 				
 				"content_html": "<p><a href=\"https://www.darktable.org/\">Darktable</a> is a sharp knife.</p>\n<!-- raw HTML omitted -->\n<p>Gotta learn how to not cut yourself :D</p>\n<blockquote>\n<p>darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n<p>🎉 📷</p>\n",
