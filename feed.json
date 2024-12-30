@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://royl.micro.blog/2024/12/29/animal-well-is-a-game.html",
+				
+				"content_html": "<p><a href=\"https://www.animalwell.net\">Animal Well</a> is a 10/10 game</p>\n<p>it&rsquo;s pure madness. go deep into the well. learn to speak bunny code 🐰🐇</p>\n<p>goty for me</p>\n<p>top 5 all time for me too probably</p>\n",
+				"content_text": "[Animal Well](https://www.animalwell.net) is a 10/10 game\n\nit's pure madness. go deep into the well. learn to speak bunny code 🐰🐇\n\ngoty for me\n\ntop 5 all time for me too probably \n\n",
+				"date_published": "2024-12-29T17:42:13-08:00",
+				"url": "https://blog.roylindauer.com/2024/12/29/animal-well-is-a-game.html"
+			},
+			{
 				"id": "http://royl.micro.blog/2024/12/22/hitting-a-wall-isnt-failure.html",
 				
-				"content_html": "<p>Hitting a wall isn&rsquo;t failure - it’s a signal to adjust how your approach to challenges.</p>\n",
-				"content_text": "Hitting a wall isn't failure - it’s a signal to adjust how your approach to challenges.\r\n",
+				"content_html": "<p>Hitting a wall isn&rsquo;t failure - it’s a signal to adjust your approach to challenges.</p>\n",
+				"content_text": "Hitting a wall isn't failure - it’s a signal to adjust your approach to challenges.\n",
 				"date_published": "2024-12-22T20:51:04-08:00",
 				"url": "https://blog.roylindauer.com/2024/12/22/hitting-a-wall-isnt-failure.html"
 			},
